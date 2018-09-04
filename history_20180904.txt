@@ -1,0 +1,38 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  f
+    5  uname
+    6  uname -a
+    7  hystory
+    8  history
+    9  echo &0
+   10  echo &
+   11  echo $
+   12  echo $6
+   13  echo $0
+   14  man uname
+   15  uname -p
+   16  man uname
+   17  uname -m
+   18  man uname
+   19  uname -i
+   20  man uname
+   21  whoami
+   22  man uname
+   23  who
+   24  man uname
+   25  uname -s
+   26  man uname
+   27  uname -a
+   28  pwd
+   29  man pwd
+   30  ls
+   31  man ls
+   32  ls -l
+   33  man ls
+   34  ls -a
+   35  ls -ea
+   36  ls -la
+   37  history
+   38  history > history_20180904.txt
