@@ -22,7 +22,7 @@ uname    // atvērt informāciju par sistēmu (piem. \\uname -p// atērt inform�
 <hr/>
 __hotkeys__<br>
 Ctrl+Shift+T    // jauna cilne termināli
-__Termināļa__
+__Termināļa__<br>
 cd   //Pārvietoties<br>
 cd Desktop/ //iet uz desktop<br>
 cd .. // atpakaļ<br>
