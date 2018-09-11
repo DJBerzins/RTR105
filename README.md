@@ -1,7 +1,8 @@
 # RTR105
 Datormācības kursa elektroniskā klade
 
-<hr>'''1. stunda'''<hr/>
+# 1.Stunda
+<hr/>
 hotkeys<br>
 Ctr+Alt+T   //Atvērt terminālu<br>
 Ctrl+L   //Aizlekt uz augšu terminālā<br>
