@@ -27,10 +27,18 @@ cd   //Pārvietoties<br>
 cd Desktop/ //iet uz desktop<br>
 cd .. // atpakaļ<br>
 cd ~ // uz mājām<br>
-mkdir ManaMape // izveidot mapi  <br><
+mkdir ManaMape // izveidot mapi  <br>
 cd ManaMape/ //ieiet>mapē  <br>
 rm -r ManaMape/  ///izdzēst mapi  <br>
 echo "teksts" /// parādit terminālā "teksts"  <br>
 echo -e "Teksts/n nnn/n ssss" // Tekstu terminālā bet ar atstarpem starp rindām  <br>
+chmod 700 fails1.txt //atļauju maiņa<br>
+cat //izlasīt failu<br>
+nano fails1.txt // atvērt tekstu vieglai labošanai<br>
+cp fails1.txt fails3.txt //kopēt failu<br>
+mv *.txt Music/* //pārvietot faiilus kas satur .txt uz Music<br>
+mv *.txt ../*  //pārvietot atpakaļ<br>
+rm *3*.txt  //izdzēst visus failus kas satur 3 nosaukuma<br>
+rm fails.txt //izdzēst failu<br>
 
 
