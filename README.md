@@ -27,6 +27,10 @@ cd   //Pārvietoties<br>
 cd Desktop/ //iet uz desktop<br>
 cd .. // atpakaļ<br>
 cd ~ // uz mājām<br>
-
+mkdir ManaMape // izveidot mapi  
+cd ManaMape/ //ieiet>mapē  
+rm -r ManaMape/  ///izdzēst mapi  
+echo "teksts" /// parādit terminālā "teksts"  
+echo -e "Teksts/n nnn/n ssss" // Tekstu terminālā bet ar atstarpem starp rindām  
 
 
