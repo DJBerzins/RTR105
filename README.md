@@ -8,7 +8,7 @@ Ctr+Alt+T   //Atvērt terminālu<br>
 Ctrl+L   //Aizlekt uz augšu terminālā<br>
 (burts)+Tab   //Atver visas iespejamās funkcijas ar Ierakstītu burtu vai burtiem<br>
 <hr>
-__Termināļa__
+__Termināļa__<br>
 firefox &    //Atverēt firefox<br>
 history    //Atvērt vēsturi<br>
 echo $0    //kādu valodu izmantoju<br>
@@ -23,5 +23,10 @@ uname    // atvērt informāciju par sistēmu (piem. \\uname -p// atērt inform�
 __hotkeys__<br>
 Ctrl+Shift+T    // jauna cilne termināli
 __Termināļa__
+cd   //Pārvietoties<br>
+cd Desktop/ //iet uz desktop<br>
+cd .. // atpakaļ<br>
+cd ~ // uz mājām<br>
+
 
 
