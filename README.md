@@ -13,3 +13,9 @@ history    //Atvērt vēsturi<br>
 echo $0    //kādu valodu izmantoju<br>
 man    // apskatīt kādas komandas var papildināt komandu un informāciju par noteikto komandu ( piem. \\man echo// ) <br.
 uname    // atvērt informāciju par sistēmu (piem. \\uname -p// atērt informāciju par procesoru)<br>
+<hr>
+
+# 2.Stunda
+
+
+
