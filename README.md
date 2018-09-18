@@ -50,7 +50,7 @@ __Termināļa__<br>
 whereis ///Kur ir kaut kas<br>
 echo "mkdir Mape\ncd Mape" > create_in.sh   /// izveidot skriptu (kas izveido mapi un ieiet mapē)<br>
 echo $PATH ///ceļs<br>
-
+sudo apt-get install ipython/idle ///
 
 
 
