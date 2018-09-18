@@ -47,4 +47,10 @@ rm fails.txt //izdzēst failu<br>
 # 3.Stunda
 <hr/>
 __Termināļa__<br>
+whereis ///Kur ir kaut kas<br>
+echo "mkdir Mape\ncd Mape" > create_in.sh   /// izveidot skriptu (kas izveido mapi un ieiet mapē)<br>
+echo $PATH ///ceļs<br>
+
+
+
 
