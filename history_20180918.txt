@@ -1,0 +1,30 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo "mkdir Mape\ncd Mape" > create_in.sh
+    4  cat create_in.sh 
+    5  nano create_in.sh 
+    6  echo $PATH
+    7  whereis firefox
+    8  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:home/user"
+    9  echo $PATH
+   10  chmod 764 create_in.sh 
+   11  ls -l
+   12  create_in.sh
+   13* PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user
+   14  create_in.sh
+   15  ls
+   16  echo $PATH
+   17  PATH=$PATH:~/Mape
+   18  echo $PATH
+   19  ./create_in.sh 
+   20  nano create_in.sh 
+   21  ls -l
+   22  git clone https://github.com/DJBerzins/RTR105
+   23  ls
+   24  cd RTR105/
+   25  ls
+   26  ls -l
+   27  nano README.md 
+   28  nano git-upload
+   29  ls -l
+   30  history > history_20180918.txt

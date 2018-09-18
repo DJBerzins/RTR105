@@ -42,4 +42,9 @@ mv *.txt ../*  //pārvietot atpakaļ<br>
 rm *3*.txt  //izdzēst visus failus kas satur 3 nosaukuma<br>
 rm fails.txt //izdzēst failu<br>
 
+<hr>
+
+#3.Stunda
+<hr/>
+__Termināļa__<br>
 
