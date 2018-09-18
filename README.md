@@ -44,7 +44,7 @@ rm fails.txt //izdzēst failu<br>
 
 <hr>
 
-#3.Stunda
+# 3.Stunda
 <hr/>
 __Termināļa__<br>
 
