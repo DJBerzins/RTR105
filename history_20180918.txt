@@ -28,3 +28,13 @@
    28  nano git-upload
    29  ls -l
    30  history > history_20180918.txt
+   31  ls -l
+   32  chm 764 git-upload
+   33  chmod 764 git-upload
+   34  ls -l
+   35  ./git-upload 20180918
+   36  python
+   37  ipython
+   38  idle &
+   39  ls -l
+   40  history > history_20180918.txt
